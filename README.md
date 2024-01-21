@@ -1,3 +1,7 @@
+# 📄✏ Resume Application Tracking System Project
+**Brief:** A **Resume Application Tracking System (ATS)** project is designed to streamline and automate the recruitment process by efficiently managing the influx of resumes and job applications that organizations receive. The primary goal of an ATS is to enhance the hiring process by automating various tasks, improving the accuracy of candidate screening, and ultimately saving time and resources for recruiters and hiring managers.
+
+
 💿 Installing
 1. Environment setup.
 ```
@@ -19,5 +23,5 @@ streamlit run app.py
 - streamlit
 - Python 3.10
 - Machine learning
-- Google Gemini API
+- Google Gemini Pro Vision LLM Model
 - 🏦 Industrial Use Cases
