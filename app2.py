@@ -1,7 +1,7 @@
 import streamlit as st
 import google.generativeai as genai
 import os
-import PyPDF2 as pdf
+import PyPDF2 as pdf # Used when from PDF when you want to extract text
 from dotenv import load_dotenv
 
 load_dotenv() # Load all our environment variables from .env file

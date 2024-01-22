@@ -29,4 +29,5 @@ streamlit run app2.py
 - Python 3.10
 - Machine learning
 - Google Gemini Pro Vision LLM Model
+- Google Gemini Pro LLM Model
 - 🏦 Industrial Use Cases
